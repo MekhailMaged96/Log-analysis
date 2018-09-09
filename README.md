@@ -6,8 +6,10 @@ it will analysis the a large database and  draw business conclusions from data.
 
 Software Requriments
 -------------------
-1-Python3
+1-Python3 
+
 2-Vagrant
+
 3-VirtualBox
 
 Install
